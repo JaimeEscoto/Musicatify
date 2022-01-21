@@ -1,0 +1,11 @@
+{
+  "name": "musicatify",
+  "version": "1.0.0",
+  "description": "Proyecto de api rest con NodeJs para Spotify Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaime Escoto",
+  "license": "MIT"
+}
